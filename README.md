@@ -1,2 +1,0 @@
-"# mongobot" 
-"# mongobot2" 
